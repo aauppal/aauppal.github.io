@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ali Arshad Uppal, Ph.D."
+title                    : "Ali Arshad Uppal, Ph.D., SMIEEE"
 title_separator          : "-"
 name                     : &name "Ali Arshad Uppal"
 description              : &I am working as a Tenured Associate Professor"
@@ -87,7 +87,7 @@ author:
                       I have authored/co-authored 29 peer-reviewed journal publications."
   location         : "Islamabad, Pakistan"
   employer         :
-  pubmed           : ""
+  pubmed           : #""
   googlescholar    : "https://scholar.google.com.pk/citations?user=4wvbCf4AAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Ali-Arshad-6"
