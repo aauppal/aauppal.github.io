@@ -53,6 +53,7 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
+   text-align: justify;
     position: relative;
     float: right;
     width: $right-sidebar-width-narrow;
