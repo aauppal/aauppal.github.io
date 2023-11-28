@@ -16,9 +16,7 @@
   }
 }
 
-.page__content {
-  text-align: justify;
-}
+
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
@@ -52,7 +50,9 @@
 }
 
 .page__content {
-
+{
+  text-align: justify;
+}
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
