@@ -48,10 +48,11 @@
     width: 100%;
   }
 }
-
 .sidebar__right {
-  text-align: justify; 
-  margin-bottom: 1em; 
+  text-align: justify;
+}
+.sidebar__right {
+   margin-bottom: 1em; 
   @include breakpoint($large) {  
     position: relative;
     float: right;
