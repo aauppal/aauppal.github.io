@@ -41,6 +41,7 @@ staticman:
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "ali_arshad@comsats.edu.pk"
+    phone                : "+92-331-3666163"
   generatedFields:
     date:
       type               : "date"
