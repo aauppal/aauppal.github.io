@@ -50,6 +50,7 @@
 }
 
 .sidebar__right {
+   text-align:justify;
    margin-bottom: 1em; 
   @include breakpoint($large) {  
     position: relative;
