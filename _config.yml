@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ali Arshad Uppal, Ph.D., SMIEEE"
 title_separator          : "-"
 name                     : &name "Ali Arshad Uppal"
-description              : &I am working as a Tenured Associate Professor"
+description              : "I am working as a Tenured Associate Professor"
 url                      : https://aauppal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aauppal/aauppal.github.io"
@@ -84,7 +84,7 @@ author:
   avatar           : "citations.jpg"
   bio              : "Tenured Associate Professor, Department of Electrical & Computer Engineering, COMSATS University Islamabad"
   location         : "Islamabad, Pakistan"
-  employer         : "Department of Electrical Engineering COMSATS University Islamabad"
+  employer         : #"Department of Electrical Engineering COMSATS University Islamabad"
   pubmed           : #""
   googlescholar    : "https://scholar.google.com.pk/citations?user=4wvbCf4AAAAJ&hl=en"
   email            : "ali_arshad@comsats.edu.pk"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         :"https://www.linkedin.com/in/aauppal/"
   orcid            : "https://orcid.org/0000-0001-8016-5152"
   pinterest        :
   soundcloud       :
