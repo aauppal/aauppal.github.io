@@ -38,7 +38,7 @@ Skills
 
 Publications
 ======
-[click here to view publications](Breadcrumbsaauppal.github.io/_pages/publications.md)
+[click here to view publications](https://aauppal.github.io/publications/)
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
