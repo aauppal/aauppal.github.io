@@ -93,4 +93,5 @@ Skills
 ======
 * **Technical Skills**:
   * Linear/Nonlinear controller & observer Design  <br>  * Process control
- 
+ - Bullet 1 <br> - Bullet 2
+
