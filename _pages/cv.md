@@ -110,8 +110,8 @@ Skills
 * Recipient of Research Productivity Award from COMSATS University Islamabad (2014 and2015)
 * Recipient of MS and PhD scholarships from UCG Project Thar (2010--2013)
 
-Community Services
-  ======
+Comunity Services
+======
 * Guest edited the special issue, ***Sliding Mode Control in Dynamic Systems*** in MDPI Electronics
 * Reviewer for the Journal of process control, Fuel, IEEE Transactions on (Mechatronics, Transportation and Electrification, and Industrial Informatics), IEEE Control Systems Letters, American Control Conference and International Journal of Hydrogen Energy
 
