@@ -92,5 +92,5 @@ Presentations & Talks
 Skills
 ======
 * **Technical Skills**:
-  * Linear/Nonlinear controller & observer Design    * Process control
+  * Linear/Nonlinear controller & observer Design  <br>  * Process control
  
