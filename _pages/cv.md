@@ -83,17 +83,18 @@ Publications
  
 Teaching Experience
 ======
-* **Graduate courses taught at COMSATS University Islamabad**
-  * Nonlinear Systems and Controls (ECI760) in Fall 2021 and Fall 2022
-  * Intelligent Control Systems (ECI761) in Spring 2022 
-  * Linear Control Systems (ECI660) in Fall 2019
-  * Linear Systems Theory (ECI665) in Spring (2017, 2018 and 2019) and Fall 2017
-  * Robust Control Systems (ECI765) in Fall 2018
+* Courses taught at the department of Electrical and Computer Engineering, COMSATS University Islamabad
+  * **Graduate courses**
+    * Nonlinear Systems and Controls (ECI760) in Fall 2021 and Fall 2022
+    * Intelligent Control Systems (ECI761) in Spring 2022 
+    * Linear Control Systems (ECI660) in Fall 2019
+    * Linear Systems Theory (ECI665) in Spring (2017, 2018 and 2019) and Fall 2017
+    * Robust Control Systems (ECI765) in Fall 2018
  
-* **Undergraduate courses taught at COMSATS University Islamabad**
-  * Control Systems (EEE325) from 2011--2021, and Spring 2023 and Fall 2023
-  * Electric Machines (EEE371) from 2008--2011 and Spring 2023
-  * Electronics-I (EEE231) in Fall 2022  
+  * **Undergraduate courses**
+    * Control Systems (EEE325) from 2011--2021, and Spring 2023 and Fall 2023
+    * Electric Machines (EEE371) from 2008--2011 and Spring 2023
+    * Electronics-I (EEE231) in Fall 2022  
   
 Skills
 ======
