@@ -92,6 +92,27 @@ Presentations & Talks
 Skills
 ======
 * **Technical Skills**:
-  * Linear/Nonlinear controller & observer Design  <br>  * Process control
- - Bullet 1 <br> - Bullet 2
+  * Mathematical modeling of complex physical systems
+  * Numerical methods and mathemtical programing
+  * Linear/Nonlinear controller & observer Design
+* **Computer Skills**:
+  * MATLAB/Simulink
+  * Programing in *C++*, *Mathematica* and *Maple*
+  * *MS Office* and typesetting in *Latex*
+ 
+  Awards & Achievements
+  ======
+* Elected as ***Senior Memeber IEEE***
+* Postdoctoral Research Grant from University of Porto, Portugal (Sep 2020--Sep 2021)
+* International Research Support Initiative program Scholarship from Higher Education Commission of Pakistan (Feb 2015)
+* In-House PhD Scholarship from COMSATS University Islamabad (Feb 2012--Jan 2016)
+* Merit MS Scholarship from Center of Advanced Studies in Engineering, University of Engineering and Technology Taxila (2009--2011)
+* Recipient of Research Productivity Award from COMSATS University Islamabad (2014 and2015)
+* Recipient of MS and PhD scholarships from UCG Project Thar (2010--2013)
+
+Community Services
+  ======
+* Guest edited the special issue, ***Sliding Mode Control in Dynamic Systems*** in MDPI Electronics
+* Reviewer for the Journal of process control, Fuel, IEEE Transactions on (Mechatronics, Transportation and Electrification, and Industrial Informatics), IEEE Control Systems Letters, American Control Conference and International Journal of Hydrogen Energy
+
 
