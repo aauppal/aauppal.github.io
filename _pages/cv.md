@@ -68,9 +68,9 @@ Professional Experience
       
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Feb 2012--July 2016: Doctor of Philosophy** in Electrical Engineering (Control Systems) COMSATS University Islamabad, Islamabad, Pakistan
+  * M.S. in Jekyll, GitHub University, 2014
+  * Thesis Title: [Modeling and Control of Underground Coal Gasification](https://aauppal.github.io/files/PhD_thesis_aauppal)
   
 Skills
 ======
