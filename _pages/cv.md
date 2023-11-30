@@ -64,11 +64,7 @@ Professional Experience
    
 * **Aug 2007--April 2008: Design Engineer**
   * Public Sector Organization, Islamabad, Pakistan
-  * Duties included: integration and testing of electronic modules.
-      
-Publications
-======
-[click here to view publications](https://aauppal.github.io/publications/)
+  * Duties included: integration and testing of electronic modules.  
 
 Education
 ======
@@ -80,6 +76,10 @@ Education
  
 * **Jan 2003--Nov 2006: Bachelors of Science [With Hons]** in Electrical Engineering, University of Engineering & Technology, Taxila, Pakistan
   * Pakistan Engineering Council registration no. **Elect--22971**
+ 
+Publications
+======
+[click here to view publications](https://aauppal.github.io/publications/)
  
 Teaching Experience
 ======
