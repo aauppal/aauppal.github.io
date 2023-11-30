@@ -43,27 +43,27 @@ Professional Experience
     * Implementation of the developed controller on the actual process model.
     * The stability of the zero dynamics, which guarantees the overall stability of the closed loop system
    
-  * **May 2012--April 2014: Professional Researcher**
+* **May 2012--April 2014: Professional Researcher**
   * Control & Signal Processing Research Group, Capital University of Science & technology, Islamabad, Pakistan
   * Research Project: **ICT R& D Funds: Simulation and Control of the UCG process**
   * Responsibilities included:
-    * Development of the one-dimensional packed bed reactor model for Thar underground coal gasifier.
-    * Numerical solution of the developed model.
-    * Computer simulation of the numerical solution techniques.
-    * Parameter estimation for the UCG process.
-    * Model validation with actual field trials.
-    * Robust control system design for obtaining a desired calorific value of the product gas mixture
+   * Development of the one-dimensional packed bed reactor model for Thar underground coal gasifier.
+   * Numerical solution of the developed model.
+   * Computer simulation of the numerical solution techniques.
+   * Parameter estimation for the UCG process.
+   * Model validation with actual field trials.
+   * Robust control system design for obtaining a desired calorific value of the product gas mixture
    
-  * **Apr 2008--May 2012: Lecturer**
-  * Department of Electrical and Computer Engineering, COMSATS University Islamabad, Islamabad, Pakistan
-  * Duties included:
+* **Apr 2008--May 2012: Lecturer**
+* Department of Electrical and Computer Engineering, COMSATS University Islamabad, Islamabad, Pakistan
+* Duties included:
     * Teaching at undergraduate level.
     * Supervision of undergraduate projects.
     * Designed and conducted labs for Electric Machines and Control Systems.
    
-  * **Aug 2007--April 2008: Design Engineer**
-  * Public Sector Organization, Islamabad, Pakistan
-  * Duties included: integration and testing of electronic modules.
+* **Aug 2007--April 2008: Design Engineer**
+* Public Sector Organization, Islamabad, Pakistan
+* Duties included: integration and testing of electronic modules.
       
 Education
 ======
