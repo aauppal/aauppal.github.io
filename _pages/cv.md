@@ -11,16 +11,36 @@ redirect_from:
 
 Professional Experience
 ======
-* July 2023--to date : Tenured Associate Professor
+* **July 2023--to date : Tenured Associate Professor**
   * Department of Electrical and Computer Engineering, COMSATS University Islamabad (CUI), Islamabad, Pakistan
   * Duties include:
-    * Tagging issues
+    * Teaching at graduate and undergraduate level.
+    * Supervision/Co-supervision of MS and Ph.D. theses and undergraduate projects.
+    * Director of Control and Energy Systems Research group.
  
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
- 
+* **Apr 2014--Feb 2015, Jan 2016--Sep 2020, Sep 2021--June 2023: Assistant Professor**
+  * Department of Electrical and Computer Engineering, COMSATS University Islamabad (CUI), Islamabad, Pakistan
+  * Duties include:
+    * Teaching at graduate and undergraduate level.
+    * Supervision/Co-supervision of MS and Ph.D. theses and undergraduate projects.
+    * Director of Control and Energy Systems Research group.
+   
+* **Sep 2020--Sep 2021: Doctoral Reseacher**
+  * Faculty of Engineering, University of Porto, Porto, Portugal
+  * Research Project: **FCT UPWIND: A Multi-Kite System to Harvest High Altitude Wind Power**:
+     * Modelling and parametrization of the induction machine (IM).
+     * Development of observer based rotor ux-oriented control of the IM.
+     * Development of a robust cascade control of the ground station module of the airborne wind energy system (AWES) in all operational phases.
+     * Development of the supervisory controller for the AWES.
+   
+* **Feb 2015--Jan 2016: Visiting Scholar**
+  * Electrical & Computer Engineering Department, The Ohio State University, Columbus, Ohio, USA
+  * Research Project: **Model-Based Control of the Underground Coal Gasification (UCG) Process**:
+    * Development of a simplied time domain model of UCG.
+    * Development of the model based control of the process based on Sliding Mode Control theory.
+    * Implementation of the developed controller on the actual process model.
+    * The stability of the zero dynamics, which guarantees the overall stability of the closed loop system
+      
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
