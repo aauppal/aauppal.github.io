@@ -27,7 +27,8 @@ Professional Experience
    
 * **Sep 2020--Sep 2021: Doctoral Reseacher**
   * Faculty of Engineering, University of Porto, Porto, Portugal
-  * Research Project: **FCT UPWIND: A Multi-Kite System to Harvest High Altitude Wind Power**:
+  * Research Project: **FCT UPWIND: A Multi-Kite System to Harvest High Altitude Wind Power**
+  * Responsibilities included:
      * Modelling and parametrization of the induction machine (IM).
      * Development of observer based rotor flux-oriented control of the IM.
      * Development of a robust cascade control of the ground station module of the airborne wind energy system (AWES) in all operational phases.
@@ -35,7 +36,8 @@ Professional Experience
    
 * **Feb 2015--Jan 2016: Visiting Scholar**
   * Electrical & Computer Engineering Department, The Ohio State University, Columbus, Ohio, USA
-  * Research Project: **Model-Based Control of the Underground Coal Gasification (UCG) Process**:
+  * Research Project: **Model-Based Control of the Underground Coal Gasification (UCG) Process**
+  * Responsibilities included:
     * Development of a simplified time domain model of UCG.
     * Development of the model based control of the process based on Sliding Mode Control theory.
     * Implementation of the developed controller on the actual process model.
@@ -43,7 +45,8 @@ Professional Experience
    
   * **May 2012--April 2014: Professional Researcher**
   * Control & Signal Processing Research Group, Capital University of Science & technology, Islamabad, Pakistan
-  * Research Project: **ICT R& D Funds: Simulation and Control of the UCG process**:
+  * Research Project: **ICT R& D Funds: Simulation and Control of the UCG process**
+  * Responsibilities included:
     * Development of the one-dimensional packed bed reactor model for Thar underground coal gasifier.
     * Numerical solution of the developed model.
     * Computer simulation of the numerical solution techniques.
