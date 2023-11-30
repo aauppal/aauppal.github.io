@@ -27,6 +27,6 @@ Courses taught at the department of Electrical and Computer Engineering, COMSATS
    
 Workshops
 ======
-* Conducted a one day workshop on *LATEX--The Way of Scientific Writing* at the de partment of Electrical and Computer Engineering, COMSATS University Islamabad on 17 October 2022
-* Conducted one day workshops on *LATEX typesetting* at Capital University of Science & Technology, Islamabad on March 13 2018, July 17 2019 and August 5 2021, respectively
+* Conducted a one day workshop on ***LATEX--The Way of Scientific Writing*** at the de partment of Electrical and Computer Engineering, COMSATS University Islamabad on 17 October 2022
+* Conducted one day workshops on ***LATEX typesetting*** at Capital University of Science & Technology, Islamabad on March 13 2018, July 17 2019 and August 5 2021, respectively
 
