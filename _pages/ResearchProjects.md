@@ -15,3 +15,4 @@ Workshops
 * Conducted one day workshops on ***LATEX typesetting*** at Capital University of Science & Technology, Islamabad on March 13 2018, July 17 2019 and August 5 2021, respectively
 
 ![checking the image](/images/citations.jpg)
+<img src="/images/citations.jpg" alt="Alt text" width="300" height="200">
