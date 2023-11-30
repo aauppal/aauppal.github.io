@@ -24,8 +24,8 @@ The choice of the lithium-ion cell’s mathematical model is critical. Empirical
 electrochemical insight, while physics-informed models are accurate but computationally complex. Utilizing
 specially designed excitation signals, experimental data can be employed to develop a data-driven model for
 the ACBN, achieving a compromise between accuracy and computational cost.
-![Buck-boost converter with EV power train](/images/BB_EV.pdf)
-![checking the image](/images/CS_ACBN.pdf)
+![Buck-boost converter with EV power train](/images/BB_EV.jpg)
+![checking the image](/images/CS.jpg)
 ### 1.1.3. Intellectual Merit
 Despite extensive research in ACB control, certain avenues require exploration. Research gaps include:
 * Often overlooked high-fidelity modeling of balancing currents and power losses, crucial for assessing ACBN efficiency
