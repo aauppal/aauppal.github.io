@@ -102,7 +102,7 @@ Skills
  
   Awards & Achievements
   ======
-* Elected as ***Senior Memeber IEEE***
+* Elected as ***Senior Memeber IEEE*** in June 2022
 * Postdoctoral Research Grant from University of Porto, Portugal (Sep 2020--Sep 2021)
 * International Research Support Initiative program Scholarship from Higher Education Commission of Pakistan (Feb 2015--August 2015)
 * In-House PhD Scholarship from COMSATS University Islamabad (Feb 2012--Jan 2016)
