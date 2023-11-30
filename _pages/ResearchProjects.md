@@ -10,8 +10,10 @@ redirect_from:
 
 # 1. Research Topics
 ## 1.1. Learning-Based Predictive Control for Active Cell Balancing in Electrified Vehicles for Range Extension
+
 ### 1.1.1. Background
 The electric vehicle (EV) market is steadily growing, with projections indicating over 672 million EVs on the roads by 2050. The battery pack, primarily lithium-ion, serves as the core of an EV, influencing its range. Cell imbalance, a key factor limiting EV range, can lead to battery pack shutdown based on a single cell’s condition. Active cell balancing (ACB) emerges as a crucial solution to counter cell imbalance, enhancing overall battery pack performance, safety, and consequently, EV range.
+
 ### 1.1.2. Proposed Research
 EV battery packs are equipped with a battery management system (BMS), responsible for monitoring and control. The cell equalization circuit, a pivotal BMS component, plays a vital role. This research aims to extend EV range through state-of-charge (SoC)-based ACB, with objectives including:
 1. Selecting an appropriate ACB network (ACBN)
@@ -24,13 +26,13 @@ The choice of the lithium-ion cell’s mathematical model is critical. Empirical
 electrochemical insight, while physics-informed models are accurate but computationally complex. Utilizing
 specially designed excitation signals, experimental data can be employed to develop a data-driven model for
 the ACBN, achieving a compromise between accuracy and computational cost.
-![Buck-boost converter with EV power train](/images/BB_EV.jpg)
-![checking the image](/images/CS.jpg)
+
 ### 1.1.3. Intellectual Merit
 Despite extensive research in ACB control, certain avenues require exploration. Research gaps include:
 * Often overlooked high-fidelity modeling of balancing currents and power losses, crucial for assessing ACBN efficiency
 * The subjective choice of a cell dynamics model, necessitating alignment with both ACB (local) and EV range extension (global) paradigms
 * the nascent stage of research on range extension-aware NMPC, demanding further development.
+  
 ### 1.1.4. Broader Impact
 The control system’s design for EV battery packs extends beyond immediate applications, offering broader impacts such as:
 * Advancing scientific knowledge by combining data-driven and model-based methods to understand and control battery systems, capturing their complex dynamics.
