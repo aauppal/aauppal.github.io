@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download here](https://github.com/aauppal/aauppal.github.io/tree/master/files/latex_cv.pdf)
+[Download here](https://aauppal.github.io/files/latex_cv.pdf)
 
 Professional Experience
 ======
