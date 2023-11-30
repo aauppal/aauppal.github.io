@@ -20,7 +20,7 @@ Professional Experience
  
 * **Apr 2014--Feb 2015, Jan 2016--Sep 2020, Sep 2021--June 2023: Assistant Professor**
   * Department of Electrical and Computer Engineering, COMSATS University Islamabad (CUI), Islamabad, Pakistan
-  * Duties include:
+  * Duties included:
     * Teaching at graduate and undergraduate level.
     * Supervision/Co-supervision of MS and Ph.D. theses and undergraduate projects.
     * Director of Control and Energy Systems Research group.
