@@ -94,9 +94,9 @@ Skills
 * **Technical Skills**:
   * Mathematical modeling of complex physical systems
   * Numerical methods and mathemtical programing
-  * Linear/Nonlinear controller & observer Design
+  * Linear/Nonlinear controller & observer design
 * **Computer Skills**:
-  * MATLAB/Simulink
+  * *MATLAB/Simulink*
   * Programing in *C++*, *Mathematica* and *Maple*
   * *MS Office* and typesetting in *Latex*
  
@@ -104,7 +104,7 @@ Skills
   ======
 * Elected as ***Senior Memeber IEEE***
 * Postdoctoral Research Grant from University of Porto, Portugal (Sep 2020--Sep 2021)
-* International Research Support Initiative program Scholarship from Higher Education Commission of Pakistan (Feb 2015)
+* International Research Support Initiative program Scholarship from Higher Education Commission of Pakistan (Feb 2015--August 2015)
 * In-House PhD Scholarship from COMSATS University Islamabad (Feb 2012--Jan 2016)
 * Merit MS Scholarship from Center of Advanced Studies in Engineering, University of Engineering and Technology Taxila (2009--2011)
 * Recipient of Research Productivity Award from COMSATS University Islamabad (2014 and2015)
