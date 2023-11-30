@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Teaching Experience
+
+Courses
 ======
 * Courses taught at the department of Electrical and Computer Engineering, COMSATS University Islamabad
   * **Graduate courses**
