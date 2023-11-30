@@ -66,6 +66,10 @@ Professional Experience
   * Public Sector Organization, Islamabad, Pakistan
   * Duties included: integration and testing of electronic modules.
       
+Publications
+======
+[click here to view publications](https://aauppal.github.io/publications/)
+
 Education
 ======
 * **Feb 2012--July 2016: Doctor of Philosophy** in Electrical Engineering (Control Systems), COMSATS University Islamabad, Islamabad, Pakistan
@@ -89,8 +93,7 @@ Teaching Experience
 * **Undergraduate courses taught at COMSATS University Islamabad**
   * Control Systems (EEE325) from 2011--2021, and Spring 2023 and Fall 2023
   * Electric Machines (EEE371) from 2008--2011 and Spring 2023
-  * Electronics-I (EEE231) in Fall 2022
-  
+  * Electronics-I (EEE231) in Fall 2022  
   
 Skills
 ======
@@ -101,9 +104,6 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-[click here to view publications](https://aauppal.github.io/publications/)
 
 Talks
 ======
