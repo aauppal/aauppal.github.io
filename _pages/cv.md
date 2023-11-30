@@ -112,7 +112,7 @@ Skills
 
 Comunity Services
 ======
-* Guest edited the special issue, ***Sliding Mode Control in Dynamic Systems*** in MDPI Electronics
+* Guest edited the special issue: ***Sliding Mode Control in Dynamic Systems*** in MDPI Electronics
 * Reviewer for the Journal of process control, Fuel, IEEE Transactions on (Mechatronics, Transportation and Electrification, and Industrial Informatics), IEEE Control Systems Letters, American Control Conference and International Journal of Hydrogen Energy
 
 
