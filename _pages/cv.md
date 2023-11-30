@@ -68,9 +68,29 @@ Professional Experience
       
 Education
 ======
-* **Feb 2012--July 2016: Doctor of Philosophy** in Electrical Engineering (Control Systems) COMSATS University Islamabad, Islamabad, Pakistan
-  * M.S. in Jekyll, GitHub University, 2014
+* **Feb 2012--July 2016: Doctor of Philosophy** in Electrical Engineering (Control Systems), COMSATS University Islamabad, Islamabad, Pakistan
   * Thesis Title: [Modeling and Control of Underground Coal Gasification](https://aauppal.github.io/files/PhD_thesis_aauppal.pdf)
+ 
+* **Feb 2009--Dec 2011: Masters of Science** in Computer Engineering (Control Systems), University of Engineering & Technology, Taxila, Pakistan
+  * Thesis Title: Dynamic Modeling and Nonlinear Controller Design For Underground Coal Gasification
+ 
+* **Jan 2003--Nov 2006: Bachelors of Science [With Hons]** in Electrical Engineering, University of Engineering & Technology, Taxila, Pakistan
+  * Pakistan Engineering Council registration no. **Elect--22971**
+ 
+Teaching Experience
+======
+* **Graduate courses taught at COMSATS University Islamabad**
+  * Nonlinear Systems and Controls (ECI760) in Fall 2021 and Fall 2022
+  * Intelligent Control Systems (ECI761) in Spring 2022 
+  * Linear Control Systems (ECI660) in Fall 2019
+  * Linear Systems Theory (ECI665) in Spring (2017, 2018 and 2019) and Fall 2017
+  * Robust Control Systems (ECI765) in Fall 2018
+ 
+* **Undergraduate courses taught at COMSATS University Islamabad**
+  * Control Systems (EEE325) from 2011--2021, and Spring 2023 and Fall 2023
+  * Electric Machines (EEE371) from 2008--2011 and Spring 2023
+  * Electronics-I (EEE231) in Fall 2022
+  
   
 Skills
 ======
