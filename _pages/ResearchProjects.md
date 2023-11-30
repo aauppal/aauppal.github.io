@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Workshops
-======
-* Conducted a one day workshop on ***LATEX--The Way of Scientific Writing*** at the de partment of Electrical and Computer Engineering, COMSATS University Islamabad on 17 October 2022
-* Conducted one day workshops on ***LATEX typesetting*** at Capital University of Science & Technology, Islamabad on March 13 2018, July 17 2019 and August 5 2021, respectively
+# Research Topics
+## Learning-Based Predictive Control for Active Cell Balancing in Electrified Vehicles
+### Background
+dfsdfisdof sdhifhsdifhds hsdifhisdhf
 
 ![checking the image](/images/citations.jpg)
 <img src="/images/citations.jpg" alt="Alt text" width="300" height="200">
