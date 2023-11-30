@@ -81,43 +81,16 @@ Publications
 ======
 [click here to view publications](https://aauppal.github.io/publications/)
  
-Teaching Experience
+Presentations & Talks
 ======
-* Courses taught at the department of Electrical and Computer Engineering, COMSATS University Islamabad
-  * **Graduate courses**
-    * Nonlinear Systems and Controls (ECI760) in Fall 2021 and Fall 2022
-    * Intelligent Control Systems (ECI761) in Spring 2022 
-    * Linear Control Systems (ECI660) in Fall 2019
-    * Linear Systems Theory (ECI665) in Spring (2017, 2018 and 2019) and Fall 2017
-    * Robust Control Systems (ECI765) in Fall 2018
- 
-  * **Undergraduate courses**
-    * Control Systems (EEE325) from 2011--2021, and Spring 2023 and Fall 2023
-    * Electric Machines (EEE371) from 2008--2011 and Spring 2023
-    * Electronics-I (EEE231) in Fall 2022  
-  
+* ***Model Predictive Control Design for Targeted Drug Therapy to Recover p53 in Cancer Treatment***, in Portuguese Meeting on Optimal Control, 2021
+* ***AI Based Control of Industrial Processes***, in IEEE 2021 International Conference on Digital Futures and Transformative Technologies, School of Electrical Engineering and Computer Science (SEECS), National University of Science and Techbology (NUST), Islamabad, Pakistan, 2021 (Guest speaker)
+* ***Sliding mode control of the underground coal gasification energy conversion process***, in Symposium on Control Systems, School of Electrical Engineering and Computer Science (SEECS), National University of Science and Techbology (NUST), Islamabad, Pakistan, 2019 (Guest speaker)
+* ***Development of a simplified control-oriented model of the underground coal gasification process***, at the department of Electrical and Computer Engineering, The Ohio State University, Columbus, OH, USA, 2015
+* ***Development of a one-dimensional packed bed model of the underground coal gasification process for Thar coal gasifier***, at UCG Project Thar, Tharparkar, Pakistan, 2013
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Technical Skills**:
+  * Linear/Nonlinear controller & observer Design    * Process control
+ 
