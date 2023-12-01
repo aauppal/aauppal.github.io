@@ -42,29 +42,16 @@ battery degradation, while increasing driving range, reliability, and affordabil
 
 # 3. Research Students
 * **Current Students**
-  2. **Mr. Azmat Ullah** Ph.D. in Electrical Engineering (2016--to date)
   
-     *Topic: Optimal Control of Active Cell Balancing in Electric Vehicles for Range Extension*
+  2. **Mr. Azmat Ullah** Ph.D. in Electrical Engineering (2016--to date), *Topic: Optimal Control of Active Cell Balancing in Electric Vehicles for Range Extension*, **Supervisor: Dr. Ali Arshad Uppal**, co-supervisor: Dr. Rizwan Azam
   
-     **Supervisor: Dr. Ali Arshad Uppal**, co-supervisor: Dr. Rizwan Azam
-  
-  1. **Mr. Muhammad Shakeel** Ph.D. in Electrical Engineering (2016--to date)
-     
-     *Topic: Optimal Placement of Distributed Energy Resources in Distribution Network*
-     
-     **Supervisor: Dr. Ali Arshad Uppal**, co-supervisor: Dr. Guftar Ahmed
+  1. **Mr. Muhammad Shakeel** Ph.D. in Electrical Engineering (2016--to date), *Topic: Optimal Placement of Distributed Energy Resources in Distribution Network*, **Supervisor: Dr. Ali Arshad Uppal**, co-supervisor: Dr. Guftar Ahmed
      
 * **Previous Students**
   
-  3. **Mr. Mutahir** MS in Electrical Engineering (2018),
-  *Topic: Modeling and Control of Underground Coal Gasification*,
-  Supervisor: Dr. Shahid A. Khan, **co-supervisor: Dr. Ali Arshad Uppal**
+  3. **Mr. Mutahir** MS in Electrical Engineering (2018), *Topic: Modeling and Control of Underground Coal Gasification*, Supervisor: Dr. Shahid A. Khan, **co-supervisor: Dr. Ali Arshad Uppal**
   
-  2. **Mr. Imtiaz Ur Rehman** MS in Electrical Engineering (2018)
-     
-     *Topic: Simulation and Control of Drum Boiler System*
-     
-     Supervisor: Dr. Shahid A. Khan, **co-supervisor: Dr. Ali Arshad Uppal**
+  2. **Mr. Imtiaz Ur Rehman** MS in Electrical Engineering (2018), *Topic: Simulation and Control of Drum Boiler System*, Supervisor: Dr. Shahid A. Khan, **co-supervisor: Dr. Ali Arshad Uppal**
      
   1. **Mr. Fahad Imtiaz** MS in Electrical Engineering (2016)
      
