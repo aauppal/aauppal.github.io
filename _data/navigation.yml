@@ -11,6 +11,9 @@ main:
     
   - title: "Research"
     url: /ResearchProjects/
+
+     - title: "Supervision"
+    url: /supervision/
         
   #- title: "Blog Posts"
    #url: /year-archive/
