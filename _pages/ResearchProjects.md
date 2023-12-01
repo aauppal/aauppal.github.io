@@ -40,10 +40,11 @@ The control system’s design for EV battery packs extends beyond immediate appl
 * Improving environmental and social benefits of EVs by reducing emissions, energy consumption, and
 battery degradation, while increasing driving range, reliability, and affordability
 
+
 # 3. Research Students
-* **Current Students**
-  
-  2. **Mr. Azmat Ullah** Ph.D. in Electrical Engineering (2016--to date), *Topic: Optimal Control of Active Cell Balancing in Electric Vehicles for Range Extension*, **Supervisor: Dr. Ali Arshad Uppal**, co-supervisor: Dr. Rizwan Azam
+## 3.1. **Current Students**  
+### 2. **Mr. Azmat Ullah** Ph.D. in Electrical Engineering (2016--to date)
+*Topic: Optimal Control of Active Cell Balancing in Electric Vehicles for Range Extension*, **Supervisor: Dr. Ali Arshad Uppal**, co-supervisor: Dr. Rizwan Azam
   
   1. **Mr. Muhammad Shakeel** Ph.D. in Electrical Engineering (2016--to date), *Topic: Optimal Placement of Distributed Energy Resources in Distribution Network*, **Supervisor: Dr. Ali Arshad Uppal**, co-supervisor: Dr. Guftar Ahmed
      
