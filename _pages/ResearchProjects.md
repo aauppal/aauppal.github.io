@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-# 1. Research Topics
+# 1. Current Research Topics
 ## 1.1. Learning-Based Predictive Control for Active Cell Balancing in Electrified Vehicles for Range Extension
 
 ### 1.1.1. Background
@@ -39,5 +39,10 @@ The control system’s design for EV battery packs extends beyond immediate appl
 * Enhancing EV industry innovation and competitiveness through a novel technique optimizing battery performance and safety under diverse conditions.
 * Improving environmental and social benefits of EVs by reducing emissions, energy consumption, and
 battery degradation, while increasing driving range, reliability, and affordability
+
+# 3. Research Students
+* Current Students
+  1. asfdsdf
+* Previous Students
 
 
