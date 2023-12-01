@@ -100,8 +100,8 @@ Skills
   * Programing in *C++*, *Mathematica* and *Maple*
   * *MS Office* and typesetting in *Latex*
  
-  Awards & Achievements
-  ======
+Awards & Achievements
+======
 * Elected as ***Senior Memeber IEEE*** in June 2022
 * Postdoctoral Research Grant from University of Porto, Portugal (Sep 2020--Sep 2021)
 * International Research Support Initiative program Scholarship from Higher Education Commission of Pakistan (Feb 2015--August 2015)
