@@ -24,6 +24,6 @@ redirect_from:
    8. **Ms. Sara Sarfraz** MS in Electrical Engineering (2021), *Topic: Sliding Mode Based Control Protocol for Hybrid Electric Vehicle*, **Supervisor: Dr. Ali Arshad Uppal**, co-supervisor: Dr. Qudrat Khan.
    9. **Dr. Syed Bial Javed** Ph.D. in Electronic Engineering (Control Systems) (2021), *Topic: Cavity Prediction and Control of UCG Process*, Supervisor: Dr. Raza Samar, **co-supervisor: Dr. Ali Arshad Uppal**.
    10. **Dr. Qudsiya Irum** Ph.D. in Electrical Engineering (2022), *Topic: Galerkin Based Finite Dimensional Approximation of UCG*, Supervisor: Dr. Shahid A. Khan, **co-supervisor: Dr. Ali Arshad Uppal**.
-   11. **Ms. Afaq Ahmed** MS in Electrical Engineering (2023), *Topic: Model Based Controller for Drum Boiler System*, **Supervisor: Dr. Ali Arshad Uppal**, co-supervisor: Dr. Syed Bilal Javed.
+   11. **Mr. Afaq Ahmed** MS in Electrical Engineering (2023), *Topic: Model Based Controller for Drum Boiler System*, **Supervisor: Dr. Ali Arshad Uppal**, co-supervisor: Dr. Syed Bilal Javed.
    12. **Mr. Imran Ahmed** MS in Electrical Engineering (2023), *Topic: State Estimation of Electric Vehicle Battery*, Supervisor: Dr. M. Rizwan Azam, **co-supervisor: Dr. Ali Arshad Uppal**.
    13. **Dr. Usman Javed** Ph.D. in Electrical Engineering (2023), *Topic: Nonlinear Control of PEM Fuel Cell Power System*, **Supervisor: Dr. Ali Arshad Uppal**, co-supervisor: Dr. Adeel Mehmood.
