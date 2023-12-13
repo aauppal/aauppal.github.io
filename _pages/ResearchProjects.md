@@ -45,3 +45,4 @@ battery degradation, while increasing driving range, reliability, and affordabil
 
 ### 1.1.6. Research Output
  * [Model-Based Quantitative Analysis of a Capacitive Cell Balancing Technique using SoC Estimator](https://aauppal.github.io/publication/C5)
+ * [Power Losses Aware Nonlinear Model Predictive Control Design for Active Cell Balancing](https://aauppal.github.io/publication/J30)
