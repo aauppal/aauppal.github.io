@@ -11,6 +11,9 @@ redirect_from:
 # 1. Current Research Topics
 ## 1.1. Learning-Based Predictive Control for Active Cell Balancing in Electrified Vehicles for Range Extension
 
+### 1.1.2. Team Members
+Dr. Ali Arshad Uppal (PI, Pakistan), Dr. Qadeer Ahmed (PI, USA), Mr. Afaq Ahmed, Dr. Muhammad Rizwan Azam and Dr. Syed Bilal Javed
+
 ### 1.1.1. Background
 The electric vehicle (EV) market is steadily growing, with projections indicating over 672 million EVs on the roads by 2050. The battery pack, primarily lithium-ion, serves as the core of an EV, influencing its range. Cell imbalance, a key factor limiting EV range, can lead to battery pack shutdown based on a single cell’s condition. Active cell balancing (ACB) emerges as a crucial solution to counter cell imbalance, enhancing overall battery pack performance, safety, and consequently, EV range.
 
