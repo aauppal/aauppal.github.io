@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-# 1. Current Research Topics
+# 1. Current Research
 ## 1.1. Learning-Based Predictive Control for Active Cell Balancing in Electrified Vehicles for Range Extension
 
 ### 1.1.1. Team Members
@@ -43,6 +43,15 @@ The control system’s design for EV battery packs extends beyond immediate appl
 * Improving environmental and social benefits of EVs by reducing emissions, energy consumption, and
 battery degradation, while increasing driving range, reliability, and affordability
 
-### 1.1.6. Research Output
+### 1.1.6. Research Contributions
  * [Model-Based Quantitative Analysis of a Capacitive Cell Balancing Technique using SoC Estimator](https://aauppal.github.io/publication/C5)
  * [Power Losses Aware Nonlinear Model Predictive Control Design for Active Cell Balancing](https://aauppal.github.io/publication/J30)
+
+# 2. Completed Projects
+## 2.1. Machine Learning Based Control-Oriented Modeling of Underground Coal Gaisfication (UCG) Process
+### 2.1.1 Team Members
+Dr. Ali Arshad Uppal (PI), Mr. Afaq Ahmed and Dr. Syed Bilal Javed
+### 2.1.2 Research Contributions
+ * [Nonlinear-Control-Oriented Modeling of the MultiVariable Underground Coal Gasification Process for UCG Project Thar: A Machine Learning Perspective](https://aauppal.github.io/publication/J29)
+ * [Development of CAVLAB--A Control-Oriented MATLAB Based Simulator for an Underground Coal Gasification Process](https://aauppal.github.io/publication/J28)
+ * [CAVLAB simulator](https://github.com/Hilberto-inf/CAVLAB--UCG-process-simulator)
