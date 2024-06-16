@@ -11,7 +11,6 @@ redirect_from:
 ## Current Students  
    1. **Mr. Azmat Ullah** Ph.D. in Electrical Engineering (2016--to date), *Topic: Optimal Control of Active Cell Balancing in Electric Vehicles for Range Extension*, **Supervisor: Dr. Ali Arshad Uppal**, co-supervisor: Dr. M. Rizwan Azam.
    2. **Mr. Muhammad Shakeel** Ph.D. in Electrical Engineering (2016--to date), *Topic: Optimal Placement of Distributed Energy Resources in Distribution Network*, **Supervisor: Dr. Ali Arshad Uppal**, co-supervisor: Dr. Guftar Ahmed.
-   3. **Mr. Owais Shaukat** MS in Electrical Engineering (2021--to date), *Topic: Cascade control of integrated gasification combined cycle turbine power plant*, **Supervisor: Dr. Ali Arshad Uppal**.
 
 ## Previous Students
    1. **Mr. Fahad Imtiaz** MS in Electrical Engineering (2016), *Topic: Control of Polymer Electrolyte Membrane (PEM) Fuel cell*, Supervisor: Dr. Adeel Mehmood, **co-supervisor: Dr. Ali Arshad Uppal**.
