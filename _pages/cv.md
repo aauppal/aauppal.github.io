@@ -80,6 +80,12 @@ Education
 Publications
 ======
 [click here to view publications](https://aauppal.github.io/publications/)
+
+
+Funded Projects
+=======
+* ***Optimal Control of Active Cell Balancing Network for Lithium-ion Battery Pack*** by NESCOM (RAC), Pakistan, PI: **Ali Arshad Uppal**
+* ***Design and Development of Intelligent Battery Pack for Range Extension of Electric Scooter*** Submitted in PSF-TUBITAK Competitive Research Grant, PI: **Ali Arshad**
  
 Presentations & Talks
 ======
