@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download here](https://aauppal.github.io/files/FullCV_updated.pdf)
+[Download here](https://aauppal.github.io/files/CV_latest.pdf)
 
 Professional Experience
 ======
