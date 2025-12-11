@@ -9,10 +9,10 @@ redirect_from:
 {% include base_path %}
 
 # 1. Current Research
-## 1.1. Learning-Based Predictive Control for Active Cell Balancing in Electrified Vehicles for Range Extension
+## 1.1. Design and Development of Intelligent Battery Pack for Range Extension of Electric Scooter (PSF-CRP/TUBITAK-IV/EV/C-COMSATS (26))
 
 ### 1.1.1. Team Members
-Dr. Ali Arshad Uppal (PI, Pakistan), Dr. Qadeer Ahmed (PI, USA), Mr. Afaq Ahmed, Dr. Muhammad Rizwan Azam and Dr. Syed Bilal Javed
+Dr. Ali Arshad Uppal (PI, Pakistan), Dr. Qadeer Ahmed (Co-PI, USA), Dr. Ahmad Yar (RA), Mr. Afaq Ahmed (RA), Mr. Sohail Ahmed (RA), Mr. Azmatullah (PhD student) and Ms. Sheharbano (PhD student)
 
 ### 1.1.2. Background
 The electric vehicle (EV) market is steadily growing, with projections indicating over 672 million EVs on the roads by 2050. The battery pack, primarily lithium-ion, serves as the core of an EV, influencing its range. Cell imbalance, a key factor limiting EV range, can lead to battery pack shutdown based on a single cell’s condition. Active cell balancing (ACB) emerges as a crucial solution to counter cell imbalance, enhancing overall battery pack performance, safety, and consequently, EV range.
@@ -25,10 +25,6 @@ EV battery packs are equipped with a battery management system (BMS), responsibl
 4. Designing a range-maximizing, robust nonlinear model predictive control (NMPC) using the ACBN model
 5. Conducting a simulation study to showcase NMPC performance and EV range extension
 6. Developing a prototype for real-time implementation.
-The choice of the lithium-ion cell’s mathematical model is critical. Empirical models are simple but lack
-electrochemical insight, while physics-informed models are accurate but computationally complex. Utilizing
-specially designed excitation signals, experimental data can be employed to develop a data-driven model for
-the ACBN, achieving a compromise between accuracy and computational cost.
 
 ### 1.1.4. Intellectual Merit
 Despite extensive research in ACB control, certain avenues require exploration. Research gaps include:
