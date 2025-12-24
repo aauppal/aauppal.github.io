@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 # 1. Current Research
-## 1.1. Design and Development of Intelligent Battery Pack for Range Extension of Electric Scooter (PSF-CRP/TUBITAK-IV/EV/C-COMSATS (26))
+## 1.1. Design and Development of Intelligent Battery Pack for Range Extension of Electric Scooter (PSF-CRP/TUBITAK-IV/EV/C-COMSATS (26))--Funding amount: 19.37 Million PKR
 
 ### 1.1.1. Team Members
 Dr. Ali Arshad Uppal (PI, Pakistan), Dr. Qadeer Ahmed (Co-PI, USA), Dr. Ahmad Yar (RA), Mr. Afaq Ahmed (RA), Mr. Sohail Ahmed (RA), Mr. Azmatullah (PhD student) and Ms. Sheharbano (PhD student)
@@ -49,10 +49,14 @@ battery degradation, while increasing driving range, reliability, and affordabil
  7. [Scalable and Modular Control Framework for Managing Active Cell Balancing Challenges](https://aauppal.github.io/publication/J34)
 
 # 2. Completed Projects
-## 2.1. Machine Learning Based Control-Oriented Modeling of Underground Coal Gaisfication (UCG) Process
+## 2.1. Optimal Control of Active Cell Balancing Network for Lithium-ion Battery Pack
 ### 2.1.1 Team Members
+Dr. Ali Arshad Uppal (PI), Dr. Syed Bilal Javed (Co-PI, NESCOM) and Dr. Rizwan Azam (Co-PI, COMSATS)
+
+## 2.2. Machine Learning Based Control-Oriented Modeling of Underground Coal Gaisfication (UCG) Process
+### 2.2.1 Team Members
 Dr. Ali Arshad Uppal (PI), Mr. Afaq Ahmed and Dr. Syed Bilal Javed
-### 2.1.2 Research Contributions
- * [Nonlinear-Control-Oriented Modeling of the MultiVariable Underground Coal Gasification Process for UCG Project Thar: A Machine Learning Perspective](https://aauppal.github.io/publication/J29)
- * [Development of CAVLAB--A Control-Oriented MATLAB Based Simulator for an Underground Coal Gasification Process](https://aauppal.github.io/publication/J28)
+### 2.2.2 Research Contributions
+ 1. [Nonlinear-Control-Oriented Modeling of the MultiVariable Underground Coal Gasification Process for UCG Project Thar: A Machine Learning Perspective](https://aauppal.github.io/publication/J29)
+ 2. [Development of CAVLAB--A Control-Oriented MATLAB Based Simulator for an Underground Coal Gasification Process](https://aauppal.github.io/publication/J28)
  * [CAVLAB simulator](https://github.com/Hilberto-inf/CAVLAB--UCG-process-simulator)
