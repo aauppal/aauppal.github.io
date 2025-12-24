@@ -42,6 +42,11 @@ battery degradation, while increasing driving range, reliability, and affordabil
 ### 1.1.6. Research Contributions
  * [Model-Based Quantitative Analysis of a Capacitive Cell Balancing Technique using SoC Estimator](https://aauppal.github.io/publication/C5)
  * [Power Losses Aware Nonlinear Model Predictive Control Design for Active Cell Balancing](https://aauppal.github.io/publication/J30)
+ * [Nonlinear Model Predictive Control Design for Active Cell Balancing and Thermal Management](https://aauppal.github.io/publication/C6)
+ * [Performance Analysis of Model Predictive Controllers for Active Cell Balancing of Electric Vehicle Battery](https://aauppal.github.io/publication/C7)
+ * [NMPC-Based Performance Evaluation of Active Balancing Networks of Li-ion Batteries for Overnight EV Charging](https://aauppal.github.io/publication/J33)
+ * [Design and Evaluation of Nonlinear MPC for Active Load Balancing in Adjacent Battery Cells](https://aauppal.github.io/publication/C8)
+ * [Scalable and Modular Control Framework for Managing Active Cell Balancing Challenges](https://aauppal.github.io/publication/J34)
 
 # 2. Completed Projects
 ## 2.1. Machine Learning Based Control-Oriented Modeling of Underground Coal Gaisfication (UCG) Process
