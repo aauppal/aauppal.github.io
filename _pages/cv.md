@@ -84,9 +84,8 @@ Publications
 
 Funded Projects
 =======
-* ***Optimal Control of Active Cell Balancing Network for Lithium-ion Battery Pack*** by NESCOM (RAC), Pakistan, PI: **Ali Arshad Uppal**
-* ***Design and Development of Intelligent Battery Pack for Range Extension of Electric Scooter*** Submitted in PSF-TUBITAK Competitive Research Grant, PI: **Ali Arshad**
- 
+[click here for funded projects](https://aauppal.github.io/ResearchProjects/)
+
 Presentations & Talks
 ======
 * ***Model Predictive Control Design for Targeted Drug Therapy to Recover p53 in Cancer Treatment***, in Portuguese Meeting on Optimal Control, 2021
