@@ -49,7 +49,7 @@ battery degradation, while increasing driving range, reliability, and affordabil
  7. [Scalable and Modular Control Framework for Managing Active Cell Balancing Challenges](https://aauppal.github.io/publication/J34)
 
 # 2. Completed Projects
-## 2.1. Optimal Control of Active Cell Balancing Network for Lithium-ion Battery Pack
+## 2.1. Optimal Control of Active Cell Balancing Network for Lithium-ion Battery Pack--Funding amount: 0.4 Million PKR
 ### 2.1.1 Team Members
 Dr. Ali Arshad Uppal (PI), Dr. Syed Bilal Javed (Co-PI, NESCOM) and Dr. Rizwan Azam (Co-PI, COMSATS)
 
