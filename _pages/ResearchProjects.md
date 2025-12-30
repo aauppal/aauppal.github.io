@@ -43,10 +43,11 @@ battery degradation, while increasing driving range, reliability, and affordabil
  1. [Model-Based Quantitative Analysis of a Capacitive Cell Balancing Technique using SoC Estimator](https://aauppal.github.io/publication/C5)
  2. [Power Losses Aware Nonlinear Model Predictive Control Design for Active Cell Balancing](https://aauppal.github.io/publication/J30)
  3. [Nonlinear Model Predictive Control Design for Active Cell Balancing and Thermal Management](https://aauppal.github.io/publication/C6)
- 4. [Performance Analysis of Model Predictive Controllers for Active Cell Balancing of Electric Vehicle Battery](https://aauppal.github.io/publication/C7)
- 5. [NMPC-Based Performance Evaluation of Active Balancing Networks of Li-ion Batteries for Overnight EV Charging](https://aauppal.github.io/publication/J33)
- 6. [Design and Evaluation of Nonlinear MPC for Active Load Balancing in Adjacent Battery Cells](https://aauppal.github.io/publication/C8)
- 7. [Scalable and Modular Control Framework for Managing Active Cell Balancing Challenges](https://aauppal.github.io/publication/J34)
+ 4. [Model-Based Quantitative Analysis of Power Losses Aware Active Cell Balancing Networks with Load](https://aauppal.github.io/publication/J32)
+ 5. [Performance Analysis of Model Predictive Controllers for Active Cell Balancing of Electric Vehicle Battery](https://aauppal.github.io/publication/C7)
+ 6. [NMPC-Based Performance Evaluation of Active Balancing Networks of Li-ion Batteries for Overnight EV Charging](https://aauppal.github.io/publication/J33)
+ 7. [Design and Evaluation of Nonlinear MPC for Active Load Balancing in Adjacent Battery Cells](https://aauppal.github.io/publication/C8)
+ 8. [Scalable and Modular Control Framework for Managing Active Cell Balancing Challenges](https://aauppal.github.io/publication/J34)
 
 # 2. Completed Projects
 ## 2.1. Optimal Control of Active Cell Balancing Network for Lithium-ion Battery Pack--Funding amount: 0.4 Million PKR
