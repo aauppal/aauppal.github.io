@@ -118,6 +118,6 @@ Awards & Achievements
 Comunity Services
 ======
 * Guest edited the special issue: ***Sliding Mode Control in Dynamic Systems*** in MDPI Electronics
-* Reviewer for the Journal of process control, Fuel, IEEE Transactions on (Mechatronics, Transportation and Electrification, and Industrial Informatics), IEEE Control Systems Letters, American Control Conference and International Journal of Hydrogen Energy
+* Reviewer for the Journal of process control, Fuel, IEEE Transactions on (Control Systems Technology, Mechatronics, Transportation and Electrification, and Industrial Informatics), IEEE Control Systems Letters, International Journal of Hydrogen Energy, Energy Conversion and Management, Journal of Energy Storage and MDPI jounrals
 
 
