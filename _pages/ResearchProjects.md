@@ -48,7 +48,8 @@ battery degradation, while increasing driving range, reliability, and affordabil
  6. [NMPC-Based Performance Evaluation of Active Balancing Networks of Li-ion Batteries for Overnight EV Charging](https://aauppal.github.io/publication/J33)
  7. [Design and Evaluation of Nonlinear MPC for Active Load Balancing in Adjacent Battery Cells](https://aauppal.github.io/publication/C8)
  8. [Scalable and Modular Control Framework for Managing Active Cell Balancing Challenges](https://aauppal.github.io/publication/J34)
- 9. [Scalable and Modular Control Framework for Managing Active Cell Balancing Challenges](https://aauppal.github.io/publication/J37)
+ 9. [Electric vehicle range extension using nonlinear MPC based active battery cell balancing](https://aauppal.github.io/publication/J36)
+
 
 # 2. Completed Projects
 ## 2.1. Optimal Control of Active Cell Balancing Network for Lithium-ion Battery Pack--Funding amount: 0.4 Million PKR
